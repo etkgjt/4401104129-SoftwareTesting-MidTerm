@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Long_TC_02 - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f56189aa-d2eb-4b5b-8442-64105e6e3440</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>4a868330-92ca-4724-837f-3a2271e7aadf</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>
